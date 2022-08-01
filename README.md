@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dre! <br/><a href="https://github.com/TechWithDre">Cloud Engineer</a>, <a href="https://www.linkedin.com/in/deandremurray/">Cloud & Cybersecurity Professional</a>
+<h1>Hi, I'm Dre! <br/><a href="https://www.linkedin.com/in/deandremurray/">Cloud Professional</a>
 
 <h2>👨‍Cloud & Devops Projects:</h2>
 

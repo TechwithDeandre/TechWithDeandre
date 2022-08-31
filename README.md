@@ -1,6 +1,6 @@
 <h1>Hi, I'm Dre! <br/><a href="https://www.linkedin.com/in/deandremurray/">Cloud Professional</a>
 
-<h2>👨‍Cloud & Devops Projects:</h2>
+<h2>Cloud & Devops Projects:</h2>
 
 - <b>Implementing a DevSecOps Pipeline</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)

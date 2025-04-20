@@ -1,4 +1,4 @@
-<h1 align="center"> Dre – Platform Security | DevSecOps | Infrastructure Automation</h1>
+<h1 align="center"> Platform Security | DevSecOps | Infrastructure Automation</h1>
 
 <p align="center">
   <strong>Engineering the Future of Secure Infrastructure</strong><br>

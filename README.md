@@ -16,29 +16,27 @@
 
 ---
 
-## 🔐 Flagship Projects
+##  Flagship Projects
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🔧 **[Secure Internal Developer Platform (IDP)](https://github.com/youruser/secure-idp-openshift)** | GitOps-based platform using OpenShift, Terraform, Vault, and Kyverno for policy enforcement | `Terraform`, `Vault`, `Kyverno`, `ArgoCD` |
-| 🔐 **[Zero Trust IAM Lab](https://github.com/youruser/zero-trust-iam-lab)** | Simulates JIT access and federated identity across Vault, AWS IAM, and OpenShift IdM | `Vault`, `Terraform`, `IdM`, `SSO` |
-| 👁️ **[Cloud Threat Detection Pipeline](https://github.com/youruser/cloud-threat-detection-pipeline)** | Real-time cloud and K8s threat detection with Wazuh, Sentinel, and GuardDuty | `Wazuh`, `Sentinel`, `OpenTelemetry` |
-| 🔒 **[DevSecOps CI/CD Pipeline with Security Gates](https://github.com/youruser/devsecops-ci-pipeline)** | Secure CI/CD pipeline with tfsec, Trivy, Vault, and policy-as-code | `GitHub Actions`, `Vault`, `tfsec`, `Checkov` |
-| 🧬 **[Vault + Terraform Secrets Management Platform](https://github.com/youruser/terraform-vault-secrets-lab)** | Secure secrets delivery for K8s workloads using Vault + Terraform | `Vault`, `AppRole`, `K8s Auth`, `Terraform` |
+| **[Atlas Health — Azure Platform Security](https://github.com/TechWithDeandre/atlas-health-azure)** | Terraform-managed Azure platform security R&D project for regulated environments, covering private AKS, DevSecOps, detection engineering, and constrained AI retrieval | `Azure`, `Terraform`, `AKS`, `GitHub Actions`, `Defender for Cloud`, `Sentinel` |
+|  **[Cloud Threat Detection Pipeline](https://github.com/TechWithDeandre/cloud-threat-detection-pipeline)** | Real-time cloud and K8s threat detection with Wazuh, Sentinel, and GuardDuty | `Wazuh`, `Sentinel`, `OpenTelemetry` |
+| **[Vault + Terraform Secrets Management Platform](https://github.com/TechWithDeandre/terraform-vault-secrets-lab)** | Secure secrets delivery for K8s workloads using Vault + Terraform | `Vault`, `AppRole`, `K8s Auth`, `Terraform` |
 
 ---
 
-## 🧱 What I Build
+## What I Build
 
-- 🔐 Zero Trust security pipelines  
-- 🔁 GitOps developer platforms  
-- 📦 Secure container + cloud deployments  
-- 🧠 AI infrastructure automation workflows  
-- 📡 Real-time detection and response systems  
+-  Zero Trust security pipelines  
+-  GitOps developer platforms  
+-  Secure container + cloud deployments  
+-  AI infrastructure automation workflows  
+-  Real-time detection and response systems  
 
 ---
 
-## 💼 Let’s Connect
+## Let’s Connect
 
 <p>
   <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
@@ -47,20 +45,8 @@
 
 ---
 
-## 🗂️ Upcoming Repositories
-
-🔒 **AI Threat Detection on OpenShift AI + Vault**  
-<img src="https://img.shields.io/badge/Focus-Anomaly_Detection-blue" />  
-Real-time detection using Wazuh agents, audit logs, and OpenTelemetry — secured with Vault tokens and namespace isolation.
-
-🧠 **Secure MLOps Pipeline with Drift Detection**  
-<img src="https://img.shields.io/badge/Security-Model_Integrity-critical" />  
-GitOps pipeline with ML model validation, drift detection, and policy-as-code controls using Kyverno + Vault.
-
-🛠️ **Internal Developer Platform CLI Tool (Python)**  
-<img src="https://img.shields.io/badge/Tooling-Custom_CLI-lightgrey" />  
-Command-line tool for automating developer onboarding: namespace creation, secrets injection, policy assignment.
+##  Upcoming Repositories
 
 ---
 
-> 🔁 This repo grows as I do — follow along as I build, break, and secure the next generation of cloud-native systems.
+> This repo grows as I do — follow along as I build, break, and secure the next generation of cloud-native systems.
